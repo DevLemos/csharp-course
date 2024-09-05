@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\bin\Debug\netcoreapp2.1\operadores-logicos.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-logicos\obj\Debug\netcoreapp2.1\operadores-logicos.pdb
