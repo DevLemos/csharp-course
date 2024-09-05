@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\bin\Debug\netcoreapp2.1\EX02.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\bin\Debug\netcoreapp2.1\EX02.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\bin\Debug\netcoreapp2.1\EX02.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\bin\Debug\netcoreapp2.1\EX02.dll
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\bin\Debug\netcoreapp2.1\EX02.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\obj\Debug\netcoreapp2.1\EX02.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\obj\Debug\netcoreapp2.1\EX02.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\obj\Debug\netcoreapp2.1\EX02.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\obj\Debug\netcoreapp2.1\EX02.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\obj\Debug\netcoreapp2.1\EX02.dll
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\exemplos\EX02\obj\Debug\netcoreapp2.1\EX02.pdb

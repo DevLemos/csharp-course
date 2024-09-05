@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\bin\Debug\netcoreapp2.1\membros-estaticos.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\bin\Debug\netcoreapp2.1\membros-estaticos.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\bin\Debug\netcoreapp2.1\membros-estaticos.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\bin\Debug\netcoreapp2.1\membros-estaticos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\bin\Debug\netcoreapp2.1\membros-estaticos.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\obj\Debug\netcoreapp2.1\membros-estaticos.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\obj\Debug\netcoreapp2.1\membros-estaticos.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\obj\Debug\netcoreapp2.1\membros-estaticos.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\obj\Debug\netcoreapp2.1\membros-estaticos.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\obj\Debug\netcoreapp2.1\membros-estaticos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\POO\membros-estaticos\obj\Debug\netcoreapp2.1\membros-estaticos.pdb
