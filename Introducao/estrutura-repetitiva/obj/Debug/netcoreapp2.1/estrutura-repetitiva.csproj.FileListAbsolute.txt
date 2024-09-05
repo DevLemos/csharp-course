@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\bin\Debug\netcoreapp2.1\estrutura-repetitiva.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\bin\Debug\netcoreapp2.1\estrutura-repetitiva.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\bin\Debug\netcoreapp2.1\estrutura-repetitiva.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\bin\Debug\netcoreapp2.1\estrutura-repetitiva.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\bin\Debug\netcoreapp2.1\estrutura-repetitiva.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\obj\Debug\netcoreapp2.1\estrutura-repetitiva.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\obj\Debug\netcoreapp2.1\estrutura-repetitiva.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\obj\Debug\netcoreapp2.1\estrutura-repetitiva.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\obj\Debug\netcoreapp2.1\estrutura-repetitiva.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\obj\Debug\netcoreapp2.1\estrutura-repetitiva.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-repetitiva\obj\Debug\netcoreapp2.1\estrutura-repetitiva.pdb
