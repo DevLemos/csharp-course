@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\obj\Debug\netcoreapp2.1\segundo-problema.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\obj\Debug\netcoreapp2.1\segundo-problema.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\obj\Debug\netcoreapp2.1\segundo-problema.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\obj\Debug\netcoreapp2.1\segundo-problema.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\bin\Debug\netcoreapp2.1\segundo-problema.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\bin\Debug\netcoreapp2.1\segundo-problema.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\bin\Debug\netcoreapp2.1\segundo-problema.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\bin\Debug\netcoreapp2.1\segundo-problema.dll
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\bin\Debug\netcoreapp2.1\segundo-problema.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\obj\Debug\netcoreapp2.1\segundo-problema.dll
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\segundo-problema\obj\Debug\netcoreapp2.1\segundo-problema.pdb

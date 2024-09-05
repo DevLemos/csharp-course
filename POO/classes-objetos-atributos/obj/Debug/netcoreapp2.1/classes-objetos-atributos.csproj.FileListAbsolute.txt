@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\bin\Debug\netcoreapp2.1\classes-objetos-atributos.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\bin\Debug\netcoreapp2.1\classes-objetos-atributos.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\bin\Debug\netcoreapp2.1\classes-objetos-atributos.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\bin\Debug\netcoreapp2.1\classes-objetos-atributos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\bin\Debug\netcoreapp2.1\classes-objetos-atributos.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\obj\Debug\netcoreapp2.1\classes-objetos-atributos.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\obj\Debug\netcoreapp2.1\classes-objetos-atributos.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\obj\Debug\netcoreapp2.1\classes-objetos-atributos.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\obj\Debug\netcoreapp2.1\classes-objetos-atributos.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\obj\Debug\netcoreapp2.1\classes-objetos-atributos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\POO\classes-objetos-atributos\obj\Debug\netcoreapp2.1\classes-objetos-atributos.pdb
