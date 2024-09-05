@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\bin\Debug\netcoreapp2.1\operadores-comparativos.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\bin\Debug\netcoreapp2.1\operadores-comparativos.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\bin\Debug\netcoreapp2.1\operadores-comparativos.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\bin\Debug\netcoreapp2.1\operadores-comparativos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\bin\Debug\netcoreapp2.1\operadores-comparativos.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\obj\Debug\netcoreapp2.1\operadores-comparativos.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\obj\Debug\netcoreapp2.1\operadores-comparativos.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\obj\Debug\netcoreapp2.1\operadores-comparativos.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\obj\Debug\netcoreapp2.1\operadores-comparativos.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\obj\Debug\netcoreapp2.1\operadores-comparativos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-comparativos\obj\Debug\netcoreapp2.1\operadores-comparativos.pdb
