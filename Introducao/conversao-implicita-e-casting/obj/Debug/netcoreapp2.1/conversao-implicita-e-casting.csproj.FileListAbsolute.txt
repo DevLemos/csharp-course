@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\bin\Debug\netcoreapp2.1\conversao-implicita-e-casting.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\bin\Debug\netcoreapp2.1\conversao-implicita-e-casting.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\bin\Debug\netcoreapp2.1\conversao-implicita-e-casting.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\bin\Debug\netcoreapp2.1\conversao-implicita-e-casting.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\bin\Debug\netcoreapp2.1\conversao-implicita-e-casting.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\obj\Debug\netcoreapp2.1\conversao-implicita-e-casting.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\obj\Debug\netcoreapp2.1\conversao-implicita-e-casting.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\obj\Debug\netcoreapp2.1\conversao-implicita-e-casting.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\obj\Debug\netcoreapp2.1\conversao-implicita-e-casting.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\obj\Debug\netcoreapp2.1\conversao-implicita-e-casting.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\conversao-implicita-e-casting\obj\Debug\netcoreapp2.1\conversao-implicita-e-casting.pdb
