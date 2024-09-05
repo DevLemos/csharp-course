@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\bin\Debug\netcoreapp2.1\csharp-e-.net.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\bin\Debug\netcoreapp2.1\csharp-e-.net.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\bin\Debug\netcoreapp2.1\csharp-e-.net.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\bin\Debug\netcoreapp2.1\csharp-e-.net.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\bin\Debug\netcoreapp2.1\csharp-e-.net.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\obj\Debug\netcoreapp2.1\csharp-e-.net.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\obj\Debug\netcoreapp2.1\csharp-e-.net.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\obj\Debug\netcoreapp2.1\csharp-e-.net.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\obj\Debug\netcoreapp2.1\csharp-e-.net.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\obj\Debug\netcoreapp2.1\csharp-e-.net.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\csharp-e-.net\obj\Debug\netcoreapp2.1\csharp-e-.net.pdb

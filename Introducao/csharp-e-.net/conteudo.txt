@@ -1,0 +1,57 @@
+--------------------------------------------------------------------------------
+C# : uma linguagem de programação (regras sintáticas)
+
+.NET (2002): uma plataforma de desenvolvimento para se criar
+diversos tipos de aplicações, podendo usar várias linguagens de
+programação
+
+CLR - Common Language Runtime (Máquina Virtual)
+Nota: possui garbage collection (objetos não utilizados são automaticamente
+desalocados da memória)
+--------------------------------------------------------------------------------
+.NET Standard - Especificação do .NET
+
+.NET Framework - Usado para criar aplicativos Windows desktop (console e gráfico) e
+aplicativos web ASP.NET rodando sobre o IIS
+
+Mono - Usado para criar aplicativos e jogos multiplataforma
+
+Xamarin - Usado para criar aplicativos móveis híbridos para iOS e Android, e
+também para aplicações desktop para Mac OS
+
+.NET Core - Usado para criar aplicativos modo console multiplataforma, e também
+para criar aplicativos web ASP.NET Core e serviços para nuvem
+--------------------------------------------------------------------------------
+Compilação e interpretação
+• Linguagens compiladas: C, C++
+• Linguagens interpretadas: PHP, JavaScript
+• Linguagens pré-compiladas + máquina virtual: Java, C#
+--------------------------------------------------------------------------------
+
+Estrutura de uma aplicação C# .NET
+
+• Uma aplicação é composta por classes
+• Namespace = agrupamento LÓGICO de classes relacionadas
+• Assembly (DLL ou EXE) = Agrupamento FÍSICO de classes relacionadas (build)
+• Aplicação = Agrupamento de assemblies relacionados
+Aplicação ~ Solution
+Assembly ~ Project
+
+--------------------------------------------------------------------------------
+
+Estrutura de um programa C#
+
+• Estrutura de arquivos
+    • Arquivo .sln  
+    • Arquivo .csproj
+    • Classe principal .cs
+    • Subpastas obj e bin
+
+• Program.cs
+    • Cláusulas using: referências a outros namespaces
+    • Namespace
+    • Classe
+    • Método
+    • static void Main(string[] args)
+
+--------------------------------------------------------------------------------
