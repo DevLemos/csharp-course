@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\bin\Debug\netcoreapp2.1\operadores-de-atribuicao.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\bin\Debug\netcoreapp2.1\operadores-de-atribuicao.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\bin\Debug\netcoreapp2.1\operadores-de-atribuicao.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\bin\Debug\netcoreapp2.1\operadores-de-atribuicao.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\bin\Debug\netcoreapp2.1\operadores-de-atribuicao.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\obj\Debug\netcoreapp2.1\operadores-de-atribuicao.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\obj\Debug\netcoreapp2.1\operadores-de-atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\obj\Debug\netcoreapp2.1\operadores-de-atribuicao.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\obj\Debug\netcoreapp2.1\operadores-de-atribuicao.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\obj\Debug\netcoreapp2.1\operadores-de-atribuicao.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-de-atribuicao\obj\Debug\netcoreapp2.1\operadores-de-atribuicao.pdb
