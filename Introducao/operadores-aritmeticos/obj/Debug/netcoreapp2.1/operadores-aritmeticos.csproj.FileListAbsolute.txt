@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\bin\Debug\netcoreapp2.1\operadores-aritmeticos.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\bin\Debug\netcoreapp2.1\operadores-aritmeticos.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\bin\Debug\netcoreapp2.1\operadores-aritmeticos.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\bin\Debug\netcoreapp2.1\operadores-aritmeticos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\bin\Debug\netcoreapp2.1\operadores-aritmeticos.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\obj\Debug\netcoreapp2.1\operadores-aritmeticos.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\obj\Debug\netcoreapp2.1\operadores-aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\obj\Debug\netcoreapp2.1\operadores-aritmeticos.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\obj\Debug\netcoreapp2.1\operadores-aritmeticos.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\obj\Debug\netcoreapp2.1\operadores-aritmeticos.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\operadores-aritmeticos\obj\Debug\netcoreapp2.1\operadores-aritmeticos.pdb
