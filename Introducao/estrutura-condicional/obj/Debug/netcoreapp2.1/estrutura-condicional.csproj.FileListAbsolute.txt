@@ -1,0 +1,11 @@
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\bin\Debug\netcoreapp2.1\estrutura-condicional.deps.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\bin\Debug\netcoreapp2.1\estrutura-condicional.runtimeconfig.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\bin\Debug\netcoreapp2.1\estrutura-condicional.runtimeconfig.dev.json
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\bin\Debug\netcoreapp2.1\estrutura-condicional.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\bin\Debug\netcoreapp2.1\estrutura-condicional.pdb
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\obj\Debug\netcoreapp2.1\estrutura-condicional.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\obj\Debug\netcoreapp2.1\estrutura-condicional.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\obj\Debug\netcoreapp2.1\estrutura-condicional.AssemblyInfoInputs.cache
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\obj\Debug\netcoreapp2.1\estrutura-condicional.AssemblyInfo.cs
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\obj\Debug\netcoreapp2.1\estrutura-condicional.dll
+C:\Users\DELL-PC\Desktop\csharp-course\Introducao\estrutura-condicional\obj\Debug\netcoreapp2.1\estrutura-condicional.pdb
