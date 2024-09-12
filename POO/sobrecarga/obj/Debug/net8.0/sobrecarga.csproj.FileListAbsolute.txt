@@ -1,0 +1,15 @@
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\bin\Debug\net8.0\sobrecarga.exe
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\bin\Debug\net8.0\sobrecarga.deps.json
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\bin\Debug\net8.0\sobrecarga.runtimeconfig.json
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\bin\Debug\net8.0\sobrecarga.dll
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\bin\Debug\net8.0\sobrecarga.pdb
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\sobrecarga.AssemblyInfoInputs.cache
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\sobrecarga.AssemblyInfo.cs
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\sobrecarga.sourcelink.json
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\sobrecarga.dll
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\refint\sobrecarga.dll
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\sobrecarga.pdb
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\sobrecarga.genruntimeconfig.cache
+C:\Users\kauan.souza\Desktop\estudos\csharp\csharp-course\POO\sobrecarga\obj\Debug\net8.0\ref\sobrecarga.dll
